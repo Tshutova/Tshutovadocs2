@@ -1,0 +1,4 @@
+baseURL = 'https://tshutovadocs.github.io/'
+languageCode = 'en-us'
+title = 'TShutova Docs Site'
+theme = 'hugo-theme-relearn'
