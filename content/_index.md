@@ -1,9 +1,8 @@
-+++
-archetype = ""
-title = "Welcome"
-weight = 1
-+++
+---
+title: "welcome"
+date: 2022-09-21T16:21:00+03:00
+draft: 
+---
 
-This site may or may not contain your API documentaion.
-
-![404](/images/fatcat.jpg "Nothing to see here")
+This may or maynot contain API documentation
+![404](/images/fatcat.jpg "Nothing to see here").
